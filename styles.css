@@ -1,1 +1,14 @@
 /* Write your CSS here! */
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+    text-align: center;
+    background-image: url(images/Money_printing_gif.gif);
+}
+
+h2 {
+    background-color: rgba(83, 81, 81, 0.745);
+}
