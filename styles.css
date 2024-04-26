@@ -1,0 +1,69 @@
+/* Write your CSS here! */
+body {
+    background-color: black;
+    color: white;
+}
+
+#mainHeading {
+    color: white;
+    padding: 50px;
+    font-size: 75pt;
+    text-align: center;
+ }
+
+header {
+    text-align: center;
+    background: url(images/Money_printing_gif.gif);
+    background-size: 100%;
+    height: 200px;
+}
+
+  p {
+    width: 100%;
+    max-width: 100%;
+    line-height: 2;
+    object-fit: cover;
+  }
+
+
+  img {
+    display: block;
+    max-width: 100%;
+    width: 300vw;
+    max-height: 100%;
+    object-fit: cover;
+
+  }
+
+nav {
+    position: center;
+    text-align: center;
+    font-size: 12pt;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    align-items: center;
+    background-color: rgba(158, 213, 179, 0.745);
+    height: 10px;
+}
+
+#nav{
+    margin: 0;
+    padding: 0;
+}
+
+nav a{
+    display: inline-block;
+    margin: 0 45px;
+    font-weight: bold;
+    position: center;
+}
+
+h2 {
+    background-color: rgba(23, 133, 65, 0.745);
+    text-align: center;
+}
+
+.funParagraph {
+    color: white;
+}
